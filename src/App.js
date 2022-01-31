@@ -6,7 +6,7 @@ import HelloWorld from './Components/HelloWorld'
 function App() {
   return (
    <div>
-        <HelloWorld name="Azyan"/>
+        <HelloWorld name="Aimi"/>
      </div>
   );
 }
